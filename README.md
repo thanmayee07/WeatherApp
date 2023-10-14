@@ -1,6 +1,7 @@
 # WeatherApp
 
-
+![WeatherApp Screenshot](screenshots/main-img.png)
+![WeatherApp Screenshot2](screenshots/city-img.png)
 
 ## Overview
 
