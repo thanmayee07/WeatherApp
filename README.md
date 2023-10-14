@@ -1,5 +1,7 @@
 # WeatherApp
 
+
+
 ## Overview
 
 WeatherApp is a simple web application that allows users to check the current weather conditions for a specific city. It retrieves weather data from the OpenWeatherMap API and displays it on the page.
