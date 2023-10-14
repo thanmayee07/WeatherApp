@@ -24,6 +24,7 @@ OpenWeatherMap API: This project relies on the OpenWeatherMap API to fetch real-
 4. Get an API key:
    - Visit OpenWeatherMap to get a free API key.
    - Open main.js in your code editor and locate the following line:
+     ```bash
      const apiKey = "84ecf6e134b0bddeab48a363aaf447dd";
    - Replace "apiKey" with your API key.
 5. Open input.html in a web browser.
