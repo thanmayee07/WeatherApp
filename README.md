@@ -23,7 +23,6 @@ OpenWeatherMap API: This project relies on the OpenWeatherMap API to fetch real-
 - HTML
 - CSS
 - JavaScript
-- OpenWeatherMap API
 
 ## Getting Started
 
